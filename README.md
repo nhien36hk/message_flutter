@@ -1,21 +1,7 @@
-<<<<<<< HEAD
-# message
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # message_flutter
 Ứng dụng nhắn tin cơ bản bằng message bằng Flutter và Firebase 
->>>>>>> 2a6046bf942fa8b357a716a5907d39b3769e8ec9
+
+Trang đăng nhập
+![Capture](https://github.com/user-attachments/assets/ef113ec6-b0d1-441e-999d-f1602838f3ef)
+Phòng nhắn tin
+![Capture1](https://github.com/user-attachments/assets/b96bbf37-c03a-4d7c-bd71-5ed09979ea96)
